@@ -1,11 +1,13 @@
+
+
 /* todas las clases usadas para el footer */
-.footer , ul {
+.footer {
     list-style: none;
     background-color: #2a2a2a;
     color: #eeeeee;
     font-family: Impact,'Arial Narrow Bold', sans-serif;
 }
-.footer, h4, ul {
+.footer h4 ul {
     font-family: 'Barlow', sans-serif;
     font-family: 'Gasoek One', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
